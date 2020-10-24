@@ -1,0 +1,213 @@
+[2020-10-23 19:36:46.555] [I] Snipper: about to quit...
+[2020-10-23 19:36:46.574] [I] Snipper: focus out
+[2020-10-23 19:36:46.580] [I] Snipper: hidden
+[2020-10-23 19:36:46.580] [I] Snipper: quit
+[2020-10-23 19:36:46.936] [I] Snipper: scene saved
+[2020-10-23 19:50:20.888] [I] Snip request: 0 (dest: 0)
+[2020-10-23 19:50:20.888] [I] Snipper: preparing...
+[2020-10-23 19:50:20.973] [I] Screens: 2
+[2020-10-23 19:50:20.973] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 19:50:20.973] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 19:50:20.973] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 19:50:20.973] [I] Background size: QSize(3840, 1200)
+[2020-10-23 19:50:20.981] [I] Snipper: preparation done (0)
+[2020-10-23 19:50:20.981] [I] Snipper: about to appear...
+[2020-10-23 19:50:20.981] [I] Snipper: prepare to show...
+[2020-10-23 19:50:20.985] [I] Snipper: shown
+[2020-10-23 19:50:21.011] [I] Snipper: focus in
+[2020-10-23 19:50:21.026] [I] Snipper: ready
+[2020-10-23 19:50:26.894] [I] Screenshot destination: clipboard
+[2020-10-23 19:50:26.896] [I] Screenshot successfully saved: clipboard
+[2020-10-23 19:50:26.896] [I] Snipper: about to quit...
+[2020-10-23 19:50:26.905] [I] Snipper: focus out
+[2020-10-23 19:50:26.915] [I] Snipper: hidden
+[2020-10-23 19:50:26.916] [I] Snipper: quit
+[2020-10-23 19:50:27.782] [I] Snipper: scene saved
+[2020-10-23 20:01:46.127] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:01:46.127] [I] Snipper: preparing...
+[2020-10-23 20:01:46.200] [I] Screens: 2
+[2020-10-23 20:01:46.200] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:01:46.200] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:01:46.202] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:01:46.202] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:01:46.214] [I] Snipper: preparation done (0)
+[2020-10-23 20:01:46.215] [I] Snipper: about to appear...
+[2020-10-23 20:01:46.215] [I] Snipper: prepare to show...
+[2020-10-23 20:01:46.216] [I] Snipper: shown
+[2020-10-23 20:01:46.237] [I] Snipper: focus in
+[2020-10-23 20:01:46.253] [I] Snipper: ready
+[2020-10-23 20:01:56.370] [I] Screenshot destination: clipboard
+[2020-10-23 20:01:56.386] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:01:56.386] [I] Snipper: about to quit...
+[2020-10-23 20:01:56.402] [I] Snipper: focus out
+[2020-10-23 20:01:56.409] [I] Snipper: hidden
+[2020-10-23 20:01:56.410] [I] Snipper: quit
+[2020-10-23 20:01:57.188] [I] Snipper: scene saved
+[2020-10-23 20:10:15.321] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:10:15.321] [I] Snipper: preparing...
+[2020-10-23 20:10:15.393] [I] Screens: 2
+[2020-10-23 20:10:15.393] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:10:15.393] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:10:15.393] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:10:15.393] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:10:15.398] [I] Snipper: preparation done (0)
+[2020-10-23 20:10:15.398] [I] Snipper: about to appear...
+[2020-10-23 20:10:15.398] [I] Snipper: prepare to show...
+[2020-10-23 20:10:15.407] [I] Snipper: shown
+[2020-10-23 20:10:15.431] [I] Snipper: focus in
+[2020-10-23 20:10:15.446] [I] Snipper: ready
+[2020-10-23 20:10:17.488] [I] Screenshot destination: clipboard
+[2020-10-23 20:10:17.491] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:10:17.491] [I] Snipper: about to quit...
+[2020-10-23 20:10:17.502] [I] Snipper: focus out
+[2020-10-23 20:10:17.513] [I] Snipper: hidden
+[2020-10-23 20:10:17.514] [I] Snipper: quit
+[2020-10-23 20:10:17.903] [I] Snipper: scene saved
+[2020-10-23 20:10:25.504] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:10:25.504] [I] Snipper: preparing...
+[2020-10-23 20:10:25.572] [I] Screens: 2
+[2020-10-23 20:10:25.572] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:10:25.573] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:10:25.573] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:10:25.573] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:10:25.576] [I] Snipper: preparation done (0)
+[2020-10-23 20:10:25.576] [I] Snipper: about to appear...
+[2020-10-23 20:10:25.576] [I] Snipper: prepare to show...
+[2020-10-23 20:10:25.587] [I] Snipper: shown
+[2020-10-23 20:10:25.609] [I] Snipper: focus in
+[2020-10-23 20:10:25.628] [I] Snipper: ready
+[2020-10-23 20:10:27.120] [I] Screenshot destination: clipboard
+[2020-10-23 20:10:27.125] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:10:27.125] [I] Snipper: about to quit...
+[2020-10-23 20:10:27.136] [I] Snipper: focus out
+[2020-10-23 20:10:27.142] [I] Snipper: hidden
+[2020-10-23 20:10:27.143] [I] Snipper: quit
+[2020-10-23 20:10:27.672] [I] Snipper: scene saved
+[2020-10-23 20:27:57.534] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:27:57.534] [I] Snipper: preparing...
+[2020-10-23 20:27:57.602] [I] Screens: 2
+[2020-10-23 20:27:57.602] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:27:57.602] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:27:57.602] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:27:57.602] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:27:57.606] [I] Snipper: preparation done (0)
+[2020-10-23 20:27:57.606] [I] Snipper: about to appear...
+[2020-10-23 20:27:57.606] [I] Snipper: prepare to show...
+[2020-10-23 20:27:57.624] [I] Snipper: shown
+[2020-10-23 20:27:57.652] [I] Snipper: focus in
+[2020-10-23 20:27:57.667] [I] Snipper: ready
+[2020-10-23 20:27:59.265] [I] Screenshot destination: clipboard
+[2020-10-23 20:27:59.267] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:27:59.268] [I] Snipper: about to quit...
+[2020-10-23 20:27:59.281] [I] Snipper: focus out
+[2020-10-23 20:27:59.287] [I] Snipper: hidden
+[2020-10-23 20:27:59.288] [I] Snipper: quit
+[2020-10-23 20:27:59.820] [I] Snipper: scene saved
+[2020-10-23 20:28:15.606] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:28:15.606] [I] Snipper: preparing...
+[2020-10-23 20:28:15.666] [I] Screens: 2
+[2020-10-23 20:28:15.666] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:28:15.666] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:28:15.666] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:28:15.666] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:28:15.670] [I] Snipper: preparation done (0)
+[2020-10-23 20:28:15.670] [I] Snipper: about to appear...
+[2020-10-23 20:28:15.670] [I] Snipper: prepare to show...
+[2020-10-23 20:28:15.673] [I] Snipper: shown
+[2020-10-23 20:28:15.692] [I] Snipper: focus in
+[2020-10-23 20:28:15.708] [I] Snipper: ready
+[2020-10-23 20:28:17.313] [I] Screenshot destination: clipboard
+[2020-10-23 20:28:17.314] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:28:17.315] [I] Snipper: about to quit...
+[2020-10-23 20:28:17.326] [I] Snipper: focus out
+[2020-10-23 20:28:17.334] [I] Snipper: hidden
+[2020-10-23 20:28:17.335] [I] Snipper: quit
+[2020-10-23 20:28:17.951] [I] Snipper: scene saved
+[2020-10-23 20:29:33.677] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:29:33.677] [I] Snipper: preparing...
+[2020-10-23 20:29:33.748] [I] Screens: 2
+[2020-10-23 20:29:33.748] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:29:33.748] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:29:33.748] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:29:33.748] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:29:33.752] [I] Snipper: preparation done (0)
+[2020-10-23 20:29:33.752] [I] Snipper: about to appear...
+[2020-10-23 20:29:33.752] [I] Snipper: prepare to show...
+[2020-10-23 20:29:33.762] [I] Snipper: shown
+[2020-10-23 20:29:33.785] [I] Snipper: focus in
+[2020-10-23 20:29:33.801] [I] Snipper: ready
+[2020-10-23 20:29:35.147] [I] Screenshot destination: clipboard
+[2020-10-23 20:29:35.148] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:29:35.148] [I] Snipper: about to quit...
+[2020-10-23 20:29:35.160] [I] Snipper: focus out
+[2020-10-23 20:29:35.172] [I] Snipper: hidden
+[2020-10-23 20:29:35.172] [I] Snipper: quit
+[2020-10-23 20:29:35.849] [I] Snipper: scene saved
+[2020-10-23 20:31:35.190] [I] Snip request: 0 (dest: 0)
+[2020-10-23 20:31:35.190] [I] Snipper: preparing...
+[2020-10-23 20:31:35.259] [I] Screens: 2
+[2020-10-23 20:31:35.259] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:31:35.259] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-23 20:31:35.259] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-23 20:31:35.259] [I] Background size: QSize(3840, 1200)
+[2020-10-23 20:31:35.262] [I] Snipper: preparation done (0)
+[2020-10-23 20:31:35.263] [I] Snipper: about to appear...
+[2020-10-23 20:31:35.263] [I] Snipper: prepare to show...
+[2020-10-23 20:31:35.266] [I] Snipper: shown
+[2020-10-23 20:31:35.290] [I] Snipper: focus in
+[2020-10-23 20:31:35.307] [I] Snipper: ready
+[2020-10-23 20:31:37.018] [I] Screenshot destination: clipboard
+[2020-10-23 20:31:37.025] [I] Screenshot successfully saved: clipboard
+[2020-10-23 20:31:37.025] [I] Snipper: about to quit...
+[2020-10-23 20:31:37.039] [I] Snipper: focus out
+[2020-10-23 20:31:37.049] [I] Snipper: hidden
+[2020-10-23 20:31:37.050] [I] Snipper: quit
+[2020-10-23 20:31:37.662] [I] Snipper: scene saved
+[2020-10-24 11:05:43.113] [I] Snip request: 0 (dest: 0)
+[2020-10-24 11:05:43.113] [I] Snipper: preparing...
+[2020-10-24 11:05:43.271] [I] Screens: 2
+[2020-10-24 11:05:43.272] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-24 11:05:43.305] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-24 11:05:43.305] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-24 11:05:43.305] [I] Background size: QSize(3840, 1200)
+[2020-10-24 11:05:43.502] [I] Snipper: preparation done (0)
+[2020-10-24 11:05:43.533] [I] Snipper: about to appear...
+[2020-10-24 11:05:43.548] [I] Snipper: prepare to show...
+[2020-10-24 11:05:43.628] [I] Snipper: shown
+[2020-10-24 11:05:43.687] [I] Snipper: focus in
+[2020-10-24 11:05:43.710] [I] Snipper: ready
+[2020-10-24 11:05:44.407] [I] Screenshot destination: none
+[2020-10-24 11:05:44.407] [I] Snipper: about to quit...
+[2020-10-24 11:05:44.415] [I] Snipper: focus out
+[2020-10-24 11:05:44.426] [I] Snipper: hidden
+[2020-10-24 11:05:44.427] [I] Snipper: quit
+[2020-10-24 11:10:18.477] [I] Snip request: 0 (dest: 0)
+[2020-10-24 11:10:18.477] [I] Snipper: preparing...
+[2020-10-24 11:10:18.566] [I] Screens: 2
+[2020-10-24 11:10:18.566] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-24 11:10:18.566] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-24 11:10:18.566] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-24 11:10:18.566] [I] Background size: QSize(3840, 1200)
+[2020-10-24 11:10:18.570] [I] Snipper: preparation done (0)
+[2020-10-24 11:10:18.570] [I] Snipper: about to appear...
+[2020-10-24 11:10:18.570] [I] Snipper: prepare to show...
+[2020-10-24 11:10:18.575] [I] Snipper: shown
+[2020-10-24 11:10:18.595] [I] Snipper: focus in
+[2020-10-24 11:10:18.609] [I] Snipper: ready
+[2020-10-24 11:10:28.023] [I] Screenshot destination: clipboard
+[2020-10-24 11:10:28.026] [I] Screenshot successfully saved: clipboard
+[2020-10-24 11:10:28.026] [I] Snipper: about to quit...
+[2020-10-24 11:10:28.045] [I] Snipper: focus out
+[2020-10-24 11:10:28.053] [I] Snipper: hidden
+[2020-10-24 11:10:28.080] [I] Snipper: quit
+[2020-10-24 11:10:28.837] [I] Snipper: scene saved
+[2020-10-24 11:10:56.243] [I] Snip request: 0 (dest: 0)
+[2020-10-24 11:10:56.243] [I] Snipper: preparing...
+[2020-10-24 11:10:56.320] [I] Screens: 2
+[2020-10-24 11:10:56.320] [I]     QRect(0, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-24 11:10:56.320] [I]     QRect(-1920, 0, 1920 x 1200), DPI = 96 , DPR = 1
+[2020-10-24 11:10:56.320] [I] Desktop: QRect(-1920, 0, 3840 x 1200)
+[2020-10-24 11:10:56.320] [I] Background size: QSize(3840, 1200)
+[2020-10-24 11:10:56.325] [I] Snipper: preparation done (0)
+[2020-10-24 11:10:56.325] [I] Snipper: about to appear...
+[2020
