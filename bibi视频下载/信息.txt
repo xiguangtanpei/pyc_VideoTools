@@ -1,0 +1,11 @@
+教程网址：  
+    https://www.youtube.com/watch?v=ZTMbO1Z2Xrs
+
+用到的工具地址：
+    https://www.gyan.dev/ffmpeg/builds/ 
+
+    https://github.com/nilaoda/BBDown
+
+
+自己工具使用盘位置：
+	D:\b\bb
